@@ -46,6 +46,8 @@ By the end of this, developers should be able to:
 
 Complete http://flexboxfroggy.com/
 
+Complete http://www.flexboxdefense.com/
+
 ## Lab:  Layouts
 
 Use flexbox to complete these common [web page layouts](labs/README.md)
